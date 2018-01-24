@@ -17,6 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">ഫോട്ടോസ്, വീഡിയോസ് എന്നിവ ഫോണിൽ നിന്ന് തിരഞ്ഞെടുക്കുക</string>
+  <string name="mediapicker_audioListChooserDescription">ഓഡിയോ ഫോണിൽ നിന്ന് തിരഞ്ഞെടുക്കുക</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">വീഡിയോ ചേർക്കാൻ പറ്റില്ല. സൈസ് കൂടുതൽ ആണ്.</string>
   <!-- Swipe to delete conversation -->
   <!-- Show emoticons -->
   <!-- Shortcuts -->

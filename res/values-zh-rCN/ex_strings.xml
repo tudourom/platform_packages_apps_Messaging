@@ -21,8 +21,8 @@
   <string name="mediapicker_audioListChooserDescription">从设备中选取音频文件</string>
   <string name="mediapicker_gallery_image_item_attachment_too_large">无法附加视频。附件大小超过最大上限。</string>
   <string name="mediapicker_audio_list_title">选择音频</string>
-  <string name="mediapicker_audio_list_item_selected_content_description">已选择此音频。</string>
-  <string name="mediapicker_audio_list_item_unselected_content_description">已取消选择此音频。</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">已选择此音频</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">已取消选择此音频</string>
   <string name="mediapicker_audio_list_title_selection">已选择<xliff:g id="Count">%d</xliff:g>项</string>
   <!-- Swipe to delete conversation -->
   <string name="swipe_to_delete_conversation_pref_title">滑动以删除</string>
