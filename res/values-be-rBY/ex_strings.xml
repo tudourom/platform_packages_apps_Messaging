@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">Абраць выявы або відэа на гэтай прыладзе</string>
+  <string name="mediapicker_audioListChooserDescription">Выберыце аўдыё файлы на гэтай прыладзе</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">Немагчыма прымацаваць відэа. Перавышаны максімальны памер паведамлення.</string>
+  <string name="mediapicker_audio_list_title">Абярыце аўдыё</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">Аўдыё абрана.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">Аўдыё не абрана.</string>
+  <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> абрана</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">Правядзіце для выдалення</string>
+  <string name="swipe_to_delete_conversation_pref_summary">Правядзіце направа каб выдаліць дыялог</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">Доступ да смайлаў</string>
+  <string name="show_emoticons_pref_summary">Паказваць кнопку смайлаў на клавіятуры</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">Новае паведамленне</string>
 </resources>
