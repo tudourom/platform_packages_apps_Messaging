@@ -17,12 +17,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
-  <string name="mediapicker_galleryChooserDescription_custom">Alege imagini sau videoclipuri din dispozitiv</string>
-  <string name="mediapicker_audioListChooserDescription">Alege fișiere audio din dispozitiv</string>
-  <string name="mediapicker_gallery_image_item_attachment_too_large">Nu se poate atașa videoclipul. Dimensiune prea mare.</string>
-  <string name="mediapicker_audio_list_title">Alege sunet</string>
-  <string name="mediapicker_audio_list_item_selected_content_description">Sunetul a fost ales.</string>
-  <string name="mediapicker_audio_list_item_unselected_content_description">Sunetul nu a fost selectat.</string>
   <!-- Swipe to delete conversation -->
   <!-- Show emoticons -->
   <!-- Shortcuts -->
