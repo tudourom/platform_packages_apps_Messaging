@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">Choisir des images ou des vidéos depuis cet appareil</string>
+  <string name="mediapicker_audioListChooserDescription">Sélectionner des fichiers audio sur cet appareil</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">Impossible de joindre ce fichier vidéo. Taille maximale de message dépassée.</string>
+  <string name="mediapicker_audio_list_title">Sélectionner un fichier audio</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">Fichier audio sélectionné.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">Fichier audio non sélectionné.</string>
+  <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> sélectionné(s)</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">Faire glisser pour supprimer</string>
+  <string name="swipe_to_delete_conversation_pref_summary">Glisser vers la droite pour supprimer une conversation</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">Accès emojis</string>
+  <string name="show_emoticons_pref_summary">Afficher la touche \"Emoji\" sur le clavier</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">Nouveau message</string>
 </resources>

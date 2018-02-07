@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">આ ઉપકરણથી છબીઓ અથવા વિડિઓઝ પસંદ કરો</string>
+  <string name="mediapicker_audioListChooserDescription">આ ઉપકરણથી ઑડિઓ ફાઇલો પસંદ કરો</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">વિડિઓ જોડી શકતા નથી. મહત્તમ સંદેશ કદ ઓળંગ્યો.</string>
+  <string name="mediapicker_audio_list_title">ઑડિઓ પસંદ કરો</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">ઑડિઓ પસંદ થયેલ છે.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">ઑડિઓ નાપસંદ કરેલ છે.</string>
+  <string name="mediapicker_audio_list_title_selection"><xliff:g id="ગણતરી">%d</xliff:g>પસંદ કરેલ</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">કાઢી નાખવા માટે સ્વાઇપ કરો</string>
+  <string name="swipe_to_delete_conversation_pref_summary">વાતચીતને કાઢી નાખવા માટે જમણે સ્વાઇપ કરો</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">ઇમોટિકન્સ ઍક્સેસ</string>
+  <string name="show_emoticons_pref_summary">કિબોર્ડ પર ઇમોટિકન્સ કી દર્શાવો</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">નવો સંદેશ</string>
 </resources>

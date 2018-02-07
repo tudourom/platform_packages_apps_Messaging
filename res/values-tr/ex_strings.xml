@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">Bu cihazdan resim veya video seç</string>
+  <string name="mediapicker_audioListChooserDescription">Bu cihazdan ses dosyası seç</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">Video ekleyemezsiniz. Maksimum mesaj boyutu aşıldı.</string>
+  <string name="mediapicker_audio_list_title">Ses seç</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">Ses seçildi.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">Ses seçilmedi.</string>
+  <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> seçildi</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">Silmek için hızlıca kaydır</string>
+  <string name="swipe_to_delete_conversation_pref_summary">Bir görüşmeyi silmek için sağa hızlıca kaydır</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">İfadeler erişimi</string>
+  <string name="show_emoticons_pref_summary">Klavyede ifadeler simgesini göster</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">Yeni mesaj</string>
 </resources>
