@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">Képek vagy videók kiválasztása az eszközről</string>
+  <string name="mediapicker_audioListChooserDescription">Hangfájlok kiválasztása az eszközről</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">A videó nem csatolható. Az üzenet maximális mérete túllépve.</string>
+  <string name="mediapicker_audio_list_title">Hang kiválasztása</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">Hang kiválasztva.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">Hang nincs kiválasztva.</string>
+  <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> kiválasztva</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">Törlés csúsztatással</string>
+  <string name="swipe_to_delete_conversation_pref_summary">Csúsztasson jobbra egy beszélgetés törléséhez</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">Hozzáférés a hangulatjelekhez</string>
+  <string name="show_emoticons_pref_summary">Hangulatjelek gomb megjelenítése a billentyűzeten</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">Új üzenet</string>
 </resources>

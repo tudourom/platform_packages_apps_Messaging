@@ -17,7 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Video and audio attachments -->
+  <string name="mediapicker_galleryChooserDescription_custom">Mamili ng mga imahe o mga video mula sa device na ito</string>
+  <string name="mediapicker_audioListChooserDescription">Mamili ng mga audio file mula sa device na ito</string>
+  <string name="mediapicker_gallery_image_item_attachment_too_large">Hindi maikabit ang video. Todo at sobra na ang sukat ng mensahe.</string>
+  <string name="mediapicker_audio_list_title">Mamili ng audio</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">Ang audio ay napili.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">Ang audio ay hindi napili.</string>
+  <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g>napili</string>
   <!-- Swipe to delete conversation -->
+  <string name="swipe_to_delete_conversation_pref_title">I-swipe para mabura</string>
+  <string name="swipe_to_delete_conversation_pref_summary">I-swipe sa kaliwa para mabura anng usapan</string>
   <!-- Show emoticons -->
+  <string name="show_emoticons_pref_title">Ang magamit ang mga emoticon</string>
+  <string name="show_emoticons_pref_summary">Ipakita ang mga susi ng imoticon sa keyboard</string>
   <!-- Shortcuts -->
+  <string name="shortcuts_compose_new">Bagong mensahe</string>
 </resources>

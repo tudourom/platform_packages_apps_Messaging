@@ -21,6 +21,8 @@
   <string name="mediapicker_audioListChooserDescription">Audio-Dateien von diesem Gerät auswählen</string>
   <string name="mediapicker_gallery_image_item_attachment_too_large">Kann Video nicht anhängen. Max. Nachrichtengröße überschritten.</string>
   <string name="mediapicker_audio_list_title">Audiodatei auswählen</string>
+  <string name="mediapicker_audio_list_item_selected_content_description">Die Audiodatei ist ausgewählt.</string>
+  <string name="mediapicker_audio_list_item_unselected_content_description">Die Audiodatei ist abgewählt.</string>
   <string name="mediapicker_audio_list_title_selection"><xliff:g id="count">%d</xliff:g> ausgewählt</string>
   <!-- Swipe to delete conversation -->
   <string name="swipe_to_delete_conversation_pref_title">Zum Löschen wischen</string>
